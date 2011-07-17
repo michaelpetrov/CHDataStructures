@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$interface_c_h_bidirectional_dictionary.html" title="A dictionary that allows bidirectional lookup by keys and values with equal ease." alt="" coords="5,155,176,181"/>
+<area shape="rect" id="node7" href="$interface_c_h_multi_dictionary.html" title="A multimap implementation, in which multiple values may be associated with a given key..." alt="" coords="200,155,328,181"/>
+<area shape="rect" id="node9" href="$interface_c_h_ordered_dictionary.html" title="A dictionary which enumerates keys in the order in which they are inserted." alt="" coords="352,155,499,181"/>
+<area shape="rect" id="node11" href="$interface_c_h_sorted_dictionary.html" title="A dictionary which enumerates keys according to their natural sorted order." alt="" coords="523,155,659,181"/>
+<area shape="rect" id="node2" href="doxygen-cocoa-tags.xml$http://developer.apple.com/mac/library/documentation/Cocoa/Reference/Foundation/Classes/NSMutableDictionary_Class/Reference/Reference.html" title="NSMutableDictionary" alt="" coords="272,6,416,31"/>
+</map>

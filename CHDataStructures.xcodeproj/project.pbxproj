@@ -39,7 +39,7 @@
 			isa = PBXAggregateTarget;
 			buildConfigurationList = E4FE76F70E8955BB00971EE6 /* Build configuration list for PBXAggregateTarget "Documentation" */;
 			buildPhases = (
-				E4FE76D70E89556A00971EE6 /* ShellScript */,
+				E4FE76D70E89556A00971EE6 /* Run Script */,
 			);
 			dependencies = (
 			);
@@ -714,18 +714,19 @@
 			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"";
 			showEnvVarsInLog = 0;
 		};
-		E4FE76D70E89556A00971EE6 /* ShellScript */ = {
+		E4FE76D70E89556A00971EE6 /* Run Script */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
+			name = "Run Script";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "doxygen doxygen/Doxyfile";
+			shellPath = /bin/bash;
+			shellScript = ". ~/.bash_profile\necho $PATH\ndoxygen doxygen/Doxyfile";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */

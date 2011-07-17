@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="doxygen-cocoa-tags.xml$http://developer.apple.com/mac/library/documentation/Cocoa/Reference/Foundation/Classes/NSEnumerator_Class/Reference/Reference.html" title="NSEnumerator" alt="" coords="5,77,112,102"/>
+<area shape="rect" id="node3" href="$interface_c_h_binary_search_tree_enumerator.html" title="An NSEnumerator for traversing any CHAbstractBinarySearchTree subclass in a specified order..." alt="" coords="161,5,369,30"/>
+<area shape="rect" id="node5" href="$interface_c_h_circular_buffer_enumerator.html" title="An NSEnumerator for traversing a CHAbstractCircularBufferCollection subclass." alt="" coords="171,53,360,78"/>
+<area shape="rect" id="node7" href="$interface_c_h_doubly_linked_list_enumerator.html" title="An NSEnumerator for traversing a CHDoublyLinkedList in forward or reverse order." alt="" coords="161,101,369,126"/>
+<area shape="rect" id="node9" href="$interface_c_h_singly_linked_list_enumerator.html" title="An NSEnumerator for traversing a CHSinglyLinkedList from front to back." alt="" coords="164,149,367,174"/>
+</map>

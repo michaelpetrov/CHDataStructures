@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="doxygen-cocoa-tags.xml$http://developer.apple.com/mac/library/documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/Reference/Reference.html" title="\&lt;NSCoding\&gt;" alt="" coords="33,199,132,225"/>
+<area shape="rect" id="node3" href="$interface_c_h_abstract_list_collection.html" title="An abstract class which implements common behaviors of list&#45;based collections." alt="" coords="217,391,385,417"/>
+<area shape="rect" id="node11" href="$protocol_c_h_deque-p.html" title="A deque protocol with methods for insertion and removal on both ends." alt="" coords="253,103,349,129"/>
+<area shape="rect" id="node16" href="$protocol_c_h_heap-p.html" title="A heap protocol, suitable for use with many variations of the heap structure." alt="" coords="257,295,345,321"/>
+<area shape="rect" id="node22" href="$protocol_c_h_linked_list-p.html" title="A linked list protocol with methods that work for singly&#45; or doubly&#45;linked lists." alt="" coords="243,343,360,369"/>
+<area shape="rect" id="node28" href="$protocol_c_h_queue-p.html" title="A queue protocol with methods for FIFO (&quot;First In, First Out&quot;) operations." alt="" coords="253,247,349,273"/>
+<area shape="rect" id="node33" href="$protocol_c_h_sorted_set-p.html" title="A protocol which specifes an interface for sorted sets." alt="" coords="244,151,359,177"/>
+<area shape="rect" id="node49" href="$protocol_c_h_stack-p.html" title="A stack protocol with methods for LIFO (&quot;Last In, First Out&quot;) operations." alt="" coords="257,199,345,225"/>
+<area shape="rect" id="node5" href="$interface_c_h_list_deque.html" title="A simple CHDeque implemented using a CHDoublyLinkedList." alt="" coords="475,258,571,283"/>
+<area shape="rect" id="node7" href="$interface_c_h_list_queue.html" title="A simple CHQueue implemented using a CHSinglyLinkedList." alt="" coords="473,391,572,417"/>
+<area shape="rect" id="node9" href="$interface_c_h_list_stack.html" title="A simple CHStack implemented using a CHSinglyLinkedList." alt="" coords="477,318,568,343"/>
+<area shape="rect" id="node13" href="$interface_c_h_circular_buffer_deque.html" title="A simple CHDeque implemented using a CHCircularBuffer." alt="" coords="444,6,601,31"/>
+<area shape="rect" id="node18" href="$interface_c_h_binary_heap.html" title="A CHHeap implemented using a CFBinaryHeapRef internally." alt="" coords="469,441,576,466"/>
+<area shape="rect" id="node20" href="$interface_c_h_mutable_array_heap.html" title="A simple CHHeap implemented as a subclass of NSMutableArray." alt="" coords="449,153,596,178"/>
+<area shape="rect" id="node24" href="$interface_c_h_doubly_linked_list.html" title="A standard doubly&#45;linked list implementation with pointers to head and tail." alt="" coords="453,565,592,590"/>
+<area shape="rect" id="node26" href="$interface_c_h_singly_linked_list.html" title="A standard singly&#45;linked list implementation with pointers to head and tail." alt="" coords="456,490,589,515"/>
+<area shape="rect" id="node30" href="$interface_c_h_circular_buffer_queue.html" title="A simple CHQueue implemented using a CHCircularBuffer." alt="" coords="443,103,603,129"/>
+<area shape="rect" id="node35" href="$protocol_c_h_search_tree-p.html" title="A protocol which specifes an interface for search trees, such as standard binary trees, B&#45;trees, N&#45;ary trees, or any similar tree&#45;like structure." alt="" coords="461,203,584,229"/>
+<area shape="rect" id="node37" href="$interface_c_h_abstract_binary_search_tree.html" title="An abstract CHSearchTree with many default method implementations." alt="" coords="651,422,840,447"/>
+<area shape="rect" id="node39" href="$interface_c_h_andersson_tree.html" title="An AA&#45;tree, a balanced binary search tree with guaranteed O(log n) access." alt="" coords="892,326,1020,351"/>
+<area shape="rect" id="node41" href="$interface_c_h_a_v_l_tree.html" title="An AVL tree, a balanced binary search tree with guaranteed O(log n) access." alt="" coords="912,374,1000,399"/>
+<area shape="rect" id="node43" href="$interface_c_h_red_black_tree.html" title="A Red&#45;Black tree, a balanced binary search tree with guaranteed O(log n) access." alt="" coords="897,422,1015,447"/>
+<area shape="rect" id="node45" href="$interface_c_h_treap.html" title="A Treap, a balanced binary tree with O(log n) access in general, and improbable worst cases..." alt="" coords="920,470,992,495"/>
+<area shape="rect" id="node47" href="$interface_c_h_unbalanced_tree.html" title="A simple unbalanced binary tree that does not guarantee O(log n) access." alt="" coords="889,518,1023,543"/>
+<area shape="rect" id="node51" href="$interface_c_h_circular_buffer_stack.html" title="A simple CHStack implemented using a CHCircularBuffer." alt="" coords="447,54,599,79"/>
+<area shape="rect" id="node53" href="doxygen-cocoa-tags.xml$http://developer.apple.com/mac/library/documentation/Cocoa/Reference/Foundation/Protocols/NSCopying_Protocol/Reference/Reference.html" title="\&lt;NSCopying\&gt;" alt="" coords="31,295,135,321"/>
+<area shape="rect" id="node61" href="doxygen-cocoa-tags.xml$http://developer.apple.com/mac/library/documentation/Cocoa/Reference/NSFastEnumeration_protocol/Reference/NSFastEnumeration.html" title="\&lt;NSFastEnumeration\&gt;" alt="" coords="5,247,160,273"/>
+<area shape="rect" id="node69" href="doxygen-cocoa-tags.xml$http://developer.apple.com/mac/library/documentation/Cocoa/Reference/Foundation/Classes/NSMutableArray_Class/Reference/Reference.html" title="NSMutableArray" alt="" coords="25,30,140,55"/>
+<area shape="rect" id="node71" href="$interface_c_h_circular_buffer.html" title="A circular buffer is a structure that emulates a continuous ring of N data slots." alt="" coords="241,5,361,30"/>
+<area shape="rect" id="node76" href="doxygen-cocoa-tags.xml$http://developer.apple.com/mac/library/documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference.html" title="NSObject" alt="" coords="45,517,120,542"/>
+<area shape="rect" id="node82" href="$interface_c_h_search_tree_header_object.html" title="A dummy object that resides in the header node for a tree." alt="" coords="209,541,393,566"/>
+<area shape="rect" id="node84" href="doxygen-cocoa-tags.xml$http://developer.apple.com/mac/library/documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject.html" title="\&lt;NSObject&#45;p\&gt;" alt="" coords="28,151,137,177"/>
+</map>
