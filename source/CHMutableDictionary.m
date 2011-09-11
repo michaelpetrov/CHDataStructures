@@ -22,7 +22,7 @@ void CHDictionaryRelease(CFAllocatorRef allocator, const void *value) {
 	[(id)value release];
 }
 
-CFStringRef CHDictionaryDescription(const void *value) {
+CFStringRef CHDictionaryCopyDescription(const void *value) {
 	return CFRetain([(id)value description]);
 }
 
@@ -38,7 +38,7 @@ static const CFDictionaryKeyCallBacks kCHDictionaryKeyCallBacks = {
 	0, // default version
 	CHDictionaryRetain,
 	CHDictionaryRelease,
-	CHDictionaryDescription,
+	CHDictionaryCopyDescription,
 	CHDictionaryEqual,
 	CHDictionaryHash
 };
@@ -47,7 +47,7 @@ static const CFDictionaryValueCallBacks kCHDictionaryValueCallBacks = {
 	0, // default version
 	CHDictionaryRetain,
 	CHDictionaryRelease,
-	CHDictionaryDescription,
+	CHDictionaryCopyDescription,
 	CHDictionaryEqual
 };
 

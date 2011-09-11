@@ -142,7 +142,7 @@ done:
 	BOOL isRightChild;
 	while (current != NULL && stackSize > 1) {
 		current = parent;
-		CHBinaryTreeStack_POP();
+		void *x = CHBinaryTreeStack_POP();x++;
 		parent = CHBinaryTreeStack_TOP;
 		isRightChild = (parent->right == current);
 		

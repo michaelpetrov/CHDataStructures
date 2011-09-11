@@ -258,7 +258,7 @@ static CHSearchTreeHeaderObject *headerObject = nil;
 					// TODO: How to not push a null pad for leaf nodes?
 				}
 				else {
-					CHBinaryTreeStack_POP(); // ignore the null pad
+					void *x = CHBinaryTreeStack_POP(); x++; // ignore the null pad
                     __strong CHBinaryTreeNode* ret = CHBinaryTreeStack_POP();
                     if(ret == NULL) return nil;
 					return ret->object;
